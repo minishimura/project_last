@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testest</string>
+
+    <string name="filter1">ALL</string>
+    <string name="filter2">To Do</string>
+    <string name="filter3">DONE</string>
+</resources>
